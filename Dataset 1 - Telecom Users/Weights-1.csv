@@ -1,0 +1,5 @@
+Mutual Information Function,0,0,1,0.7167,0,0,1,1,0,0,1,1,1,0.4732,0.4456
+Univariate Selection using ANOVA Test,0,1,1,0.7426,0,0,1,1,0,0,1,1,1,0.2097,0.2016
+Co-relation Matrix,0,0,0,0.8903,0,0,1,1,0,0,1,1,1,0.4733,0.5022
+Tree Based Classifier,1,0,1,0.9924,0,0,1,0,0,0,1,1,1,0.7732,1
+Intuition Based (From Visualisation),1,1,1,0.80,0,0,0,1,1,1,1,0,1,0.95,1
